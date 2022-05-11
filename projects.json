@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "name": "Apollo Collections",
+      "group": "América Latina"
+    },
+    {
+      "id": 3,
+      "name": "WeekArt",
+      "group": "Watchmen"
+    },
+    {
+      "id": 4,
+      "name": "Rick & Morty",
+      "group": "The Blind Side"
+    }
+  ]
+}
